@@ -16,5 +16,6 @@ As installable package:
 
 
 ## Architecture
+![image](https://github.com/user-attachments/assets/2407ba55-fc4b-431f-a1c2-06703282a895)
 
 ## Configuration
